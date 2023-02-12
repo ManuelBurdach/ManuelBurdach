@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ManuelBurdach
-- 👀 I’m interested in programming and fitness
+- 👀 I’m interested in programming and Fitness
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
